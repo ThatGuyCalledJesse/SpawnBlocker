@@ -1,4 +1,0 @@
-isEnabled: true
-disabledEntities: [CREEPER, SKELETON]
-# To add entities, add the value to the list in uppercase letters. So for example if you want to remove bats:
-# disablerdEntities: [CREEPER, SKELETON, BAT]
